@@ -7,13 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1IejDfBuyzq-Yn-L2RNwRJYlENDi2GAww
 
 # Load Dataset
-
+#!unzip data.zip
 Initializing a few parameters required for the image dataset preprocessing.
 """
 
-
-
-!unzip data.zip
 
 # Commented out IPython magic to ensure Python compatibility.
 import matplotlib.pyplot as plt
