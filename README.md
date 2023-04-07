@@ -1,4 +1,4 @@
-# Automated Plastic Waste Disposal System
+# Plastic detection and classification using deep learning neural networks
 This project aims to create an automated plastic waste disposal system that can categorize waste into four categories - PET, PP, HDPE, and LDPE. This system uses imaging processing techniques and artificial intelligence, specifically in-depth learning and convolutional neural networks, to improve the recycling process.
 
 ### Problem Statement
